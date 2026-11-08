@@ -1,0 +1,7 @@
+      11       11      807 comma_data.csv
+      11       11      807 semicolon_data.csv
+      25       25     1919 duplicates_comma_data.csv
+   64660    64660  5242942 data5.csv
+  128360   128360 10485763 data10.csv
+  379774   379774 31457327 data30.csv
+  572841   572841 47189565 total
