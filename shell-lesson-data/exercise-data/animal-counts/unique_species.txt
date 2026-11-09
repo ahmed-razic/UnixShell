@@ -1,0 +1,18 @@
+Unique species in animals.csv:
+      1 bear
+      2 deer
+      1 fox
+      3 rabbit
+      1 raccoon
+Unique species in animals2.csv:
+      2 bear
+      4 deer
+      2 fox
+      6 rabbit
+      2 raccoon
+Unique species in animals3.csv:
+      3 bear
+      6 deer
+      3 fox
+      9 rabbit
+      3 raccoon
